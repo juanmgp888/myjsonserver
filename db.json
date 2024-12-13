@@ -3,26 +3,30 @@
     {
       "id": 1,
       "nombre": "Pepe",
-      "intento": "",
-      "contador": ""
+      "intento": "25",
+      "contador": "4",
+      "adivinar": "77"
     },
     {
       "id": 2,
       "nombre": "Rodolfo",
       "intento": "",
-      "contador": ""
+      "contador": "",
+      "adivinar": "33"
     },
     {
       "id": 3,
       "nombre": "María",
-      "intento": "",
-      "contador": ""
+      "intento": "3",
+      "contador": "9",
+      "adivinar": "44"
     },
     {
       "id": 4,
       "nombre": "Lucía",
-      "intento": "",
-      "contador": ""
+      "intento": "12",
+      "contador": "6",
+      "adivinar": "22"
     }
   ]
 }
